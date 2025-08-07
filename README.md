@@ -1,2 +1,2 @@
-# react-js-kit
-Project kit React JS
+# Project Kit React JS
+Hi, ini adalah Project Kit `React JS`
