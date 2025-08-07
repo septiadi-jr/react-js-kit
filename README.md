@@ -42,3 +42,10 @@ Ok to proceed? (y) y
   ➜  Network: use --host to expose
   ➜  press h + enter to show help
 ```
+
+### Output
+
+Jika diambil dari clone project repository ini perlu menjalankan `npm install`, kemudian jalankan `npm run dev`
+
+<img width="1658" height="830" alt="Screenshot 2025-08-07 at 13 11 20" src="https://github.com/user-attachments/assets/39c14e18-ae47-402d-a4f0-295f93ebbec1" />
+
